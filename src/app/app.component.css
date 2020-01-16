@@ -1,5 +1,10 @@
-/* AppComponent's private CSS styles */
-h1 {
+body{
+  padding:0;
+  margin: 0;
+  background-color: #2471A3;
+  } 
+  
+ h1 {
   font-size: 1.2em;
   margin-bottom: 0;
 }
